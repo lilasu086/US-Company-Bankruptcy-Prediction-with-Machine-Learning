@@ -57,8 +57,3 @@ Build a machine learning model that predicts the likelihood of bankruptcy for U.
 - Feature Engineering & Data Preprocessing
 - Classification Models & Model Evaluation
 - ROC‑AUC and Feature Importance Analysis
-
----
-
-🔗 **Full Code & Notebook**  
-https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning
